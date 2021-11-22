@@ -27,9 +27,6 @@
  *Procedimiento Experimental*
  *Procedimiento del Simulador*
  
- ### Tabla 
- 
-![image](https://user-images.githubusercontent.com/93794279/142946008-42f2e1d9-6b26-4743-b7d6-8ed01d81766b.png)
 
 *Procedimiento del cálculo*
 
@@ -54,11 +51,13 @@
 
 7. Finalmente tenemos la intensidades apratir de las ecuaciones antes planteadas.
 
-![image](https://user-images.githubusercontent.com/93794279/142948133-d591a2cf-43d0-4f32-ba1d-c53eefc99a1b.png)
+![image](https://user-images.githubusercontent.com/93794279/142948694-b087d6d0-c557-4345-8827-d132a94f3683.png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
 ***Tabla 1***
+
+![image](https://user-images.githubusercontent.com/93794279/142946008-42f2e1d9-6b26-4743-b7d6-8ed01d81766b.png)
 
 ***Cálculo de Error***
 
