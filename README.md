@@ -64,10 +64,14 @@
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
-- FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
-- El método de la corriente de malla (artículo). (n.d.). Khanacademy.Org. Retrieved November 22, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
-- pr-ser-uj. (2020, April 4). Ley de Kirchhoff: Análisis de mallas. Hetpro-Store.Com. https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
 
+- Concluimos que en el tinterkad existe un gran porcentaje de error, lo que nos indica que el uso del multímetro no es el mas adecuado, misentras que en el Proteus los valore fueron mucho mas cercanos.
+- Anlizamos que el metodo de mallas, es un proceso por el cual podemos obtener al igual que en la ley de ohm los valtejes y  corrientes en cada resistencia.
+- Se aprecio que es un metodo alternativo al de ohm y que su facilidad o complejidad depende el circuito a analizar.
 
 
 ## 7. BIBLIOGRAFÍA
+
+- FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
+- El método de la corriente de malla (artículo). (n.d.). Khanacademy.Org. Retrieved November 22, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+- pr-ser-uj. (2020, April 4). Ley de Kirchhoff: Análisis de mallas. Hetpro-Store.Com. https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
