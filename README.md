@@ -37,11 +37,24 @@
 
 
 1. Se procedió a identificar las mallas y el sentido de corriente.
-2. Sacamos la primera relación tenniendo en cuenta que las corrientesen paralelo se dividen.
+
+![image](https://user-images.githubusercontent.com/93794279/142946839-c9fcf998-8d37-4808-a8c9-d26bf80c246c.png)
+
 3. Encontramos la primera ecuación.
-4. Deducimos la segunda ecuación.
-5. Expresamos la tercera ecuación.
-6. Finalmente tenemos la intensidades apratir de las ecuaciones antes planteadas.
+
+![image](https://user-images.githubusercontent.com/93794279/142947926-d7f97aa3-535e-4167-9df4-8e1e5885928e.png)
+
+5. Deducimos la segunda ecuación.
+
+![image](https://user-images.githubusercontent.com/93794279/142948011-88ff7898-e9a0-41c0-9a87-6e1208596600.png)
+
+6. Expresamos la tercera ecuación.
+
+![image](https://user-images.githubusercontent.com/93794279/142948076-5e10a2fd-3c10-4ae5-98e6-f4b004c7bcf2.png)
+
+7. Finalmente tenemos la intensidades apratir de las ecuaciones antes planteadas.
+
+![image](https://user-images.githubusercontent.com/93794279/142948133-d591a2cf-43d0-4f32-ba1d-c53eefc99a1b.png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CÀLCULO DEL ERROR
 
