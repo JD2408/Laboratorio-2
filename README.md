@@ -59,7 +59,10 @@
 
 ![image](https://user-images.githubusercontent.com/93794279/142946008-42f2e1d9-6b26-4743-b7d6-8ed01d81766b.png)
 
+
 ***Cálculo de Error***
+
+![image](https://user-images.githubusercontent.com/93794279/142951384-bae4237f-95ea-460b-ad99-23d0d9a52eba.png)
 
 ## 5. VIDEO
 
