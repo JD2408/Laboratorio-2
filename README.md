@@ -31,12 +31,19 @@
  
 [![1.png](https://i.postimg.cc/VkCgrv7P/1.png)](https://postimg.cc/pmPz3Wbs)
 
+primero se ponen todos los componentes con su respectivas medidas las 5 resistencias, las dos fuentes de poder con el respectivo voltaje, el protoboard y el multimetro 
+
 [![2.png](https://i.postimg.cc/NFn8Lvm0/2.png)](https://postimg.cc/bSQSFM6X)
+
+a continuacion se ponen las resistencias de manera respectiva a como nos pide el diagrama
 
 [![3.png](https://i.postimg.cc/wjXJYmfM/3.png)](https://postimg.cc/QFMVpHrZ)
 
+procedemos a conectar las fuentes de poder, al lado izquierdo la que cuenta con 18 volts y al lado derecho la de 5 volts
+
 [![4.png](https://i.postimg.cc/0QQJSH8K/4.png)](https://postimg.cc/gwCJFsLG)
 
+por ultimo para revisar que se encuentre bien hecho el circuito probamos y ya esta listo para proceder con las medidas de corriente.
 
  *Procedimiento del Simulador*
  
