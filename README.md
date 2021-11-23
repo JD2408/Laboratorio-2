@@ -57,7 +57,7 @@
 
 ***Tabla 1***
 
-![image](https://user-images.githubusercontent.com/93794279/142946008-42f2e1d9-6b26-4743-b7d6-8ed01d81766b.png)
+![image](https://user-images.githubusercontent.com/93794279/142956752-21c2b91f-976f-405b-b3d9-4d2da70ddc37.png)
 
 
 ***Cálculo de Error***
