@@ -66,6 +66,8 @@
 
 ## 5. VIDEO
 
+https://www.youtube.com/watch?v=BzXRPyKir7w
+
 ## 6. CONCLUSIONES
 
 - Concluimos que en el tinterkad existe un gran porcentaje de error, lo que nos indica que el uso del multímetro no es el mas adecuado, misentras que en el Proteus los valore fueron mucho mas cercanos.
