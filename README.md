@@ -13,6 +13,8 @@
  - Comprender e identificar la utilidad de los instrumentos y equipos dentro del laboratorio.
  
  ## 2. MARCO TEÓRICO
+ ![Diagrama en blanco (7)](https://user-images.githubusercontent.com/94129932/143040520-92c80bfb-d2e9-4416-9601-9bd68549943f.png)
+
  
  ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
  *Materiales*
