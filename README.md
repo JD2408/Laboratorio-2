@@ -82,3 +82,10 @@ https://www.youtube.com/watch?v=BzXRPyKir7w
 - FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
 - El método de la corriente de malla (artículo). (n.d.). Khanacademy.Org. Retrieved November 22, 2021, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
 - pr-ser-uj. (2020, April 4). Ley de Kirchhoff: Análisis de mallas. Hetpro-Store.Com. https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
+
+## 8. Anexos
+
+-Simulación en Proteus
+![image](https://user-images.githubusercontent.com/94129932/143042655-3fb21601-0f29-4a89-9c5a-ce869b822a80.png)
+
