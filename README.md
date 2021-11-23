@@ -13,8 +13,9 @@
  - Comprender e identificar la utilidad de los instrumentos y equipos dentro del laboratorio.
  
  ## 2. MARCO TEÓRICO
- ![Diagrama en blanco (7)](https://user-images.githubusercontent.com/94129932/143040520-92c80bfb-d2e9-4416-9601-9bd68549943f.png)
 
+![Diagrama en blanco (7)](https://user-images.githubusercontent.com/94129932/143040520-92c80bfb-d2e9-4416-9601-9bd68549943f.png)
+ 
  
  ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
  *Materiales*
@@ -27,6 +28,16 @@
  7. Multímetro
  
  *Procedimiento Experimental*
+ 
+[![1.png](https://i.postimg.cc/VkCgrv7P/1.png)](https://postimg.cc/pmPz3Wbs)
+
+[![2.png](https://i.postimg.cc/NFn8Lvm0/2.png)](https://postimg.cc/bSQSFM6X)
+
+[![3.png](https://i.postimg.cc/wjXJYmfM/3.png)](https://postimg.cc/QFMVpHrZ)
+
+[![4.png](https://i.postimg.cc/0QQJSH8K/4.png)](https://postimg.cc/gwCJFsLG)
+
+
  *Procedimiento del Simulador*
  
 
